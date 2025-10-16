@@ -1,1 +1,3 @@
-# AOC_In-ciolopes_Danielmarchioro_Sarahcaroline_UFRR_LabCircuitos_2025.
+AOC laboratorio de circuitos 
+
+Repositorio criado com a finalidade de publicar os circuitos da materia de arquitetura e organização de computadores 
