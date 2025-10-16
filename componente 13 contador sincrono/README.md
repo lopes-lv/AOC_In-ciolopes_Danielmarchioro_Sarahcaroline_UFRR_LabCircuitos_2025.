@@ -5,7 +5,7 @@ O **contador síncrono** é um circuito digital **sequencial** que realiza a **c
 Diferentemente dos **contadores assíncronos**, em que o clock é propagado de um flip-flop para outro em cascata, o contador síncrono garante que **todas as transições ocorram ao mesmo tempo**, resultando em maior precisão e velocidade.
 
 <p align="center">
-  <img src="./componente%20c13/contador_sincrono.png" alt="Contador síncrono">
+  <img src="./imagens%20c13/contador_sincrono.png" alt="Contador síncrono">
 </p>
 
 ---
