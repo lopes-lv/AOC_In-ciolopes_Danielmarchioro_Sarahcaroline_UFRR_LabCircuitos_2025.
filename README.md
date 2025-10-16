@@ -1,0 +1,1 @@
+# AOC_In-ciolopes_Danielmarchioro_Sarahcaroline_UFRR_LabCircuitos_2025.
